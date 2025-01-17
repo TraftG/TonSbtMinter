@@ -5,7 +5,7 @@
 import MintSBT from "@/components/MintSBT";
 import { TonConnectUIProvider } from "@tonconnect/ui-react";
 
-const MANIFEST_URL = 'https://gateway.pinata.cloud/ipfs/QmZd2pBynX8ieaBJHuEhkMQD9fCvCboKJsbEbpVJ7TLAEr';
+const MANIFEST_URL = 'https://finer-9a857.web.app/manifest.json';
 
 export default function Home() {
   return (
